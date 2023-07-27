@@ -150,6 +150,7 @@ public class InheritanceService {
 		
 		System.out.println(std.toString());
 	}
+	// 왜 안변하냐
 }
 
 
