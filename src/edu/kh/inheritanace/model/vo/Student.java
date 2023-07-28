@@ -23,7 +23,7 @@ public class Student extends Person{
 		// super == Person
 		// Person(); == 에러
 		super(); // super() 생성자
-		// 부모으 생성자를 호출하는 코드
+		// 부모의 생성자를 호출하는 코드
 		// 반드시 자식생성자 최상단에 작성되어야 한다!
 		// 부모의 생성자 실행(필드 초기화 + 특장기능을 수행)
 		

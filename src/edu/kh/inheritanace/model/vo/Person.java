@@ -1,6 +1,8 @@
 package edu.kh.inheritanace.model.vo;
 
-public class Person {
+public class Person extends Object{
+	// class 명에 Object에 대한 상속구문이 없다면
+	// 컴파일러가 자동으로 extends Object 구문을 추가
 	
 	// 필드
 	private String name; // 이름
